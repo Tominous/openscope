@@ -3,9 +3,26 @@
 
 
 ### Bugfixes
+- [#1363](https://github.com/openscope/openscope/issues/1363) - Fix aircraft Not Squawking Assigned Code
 
 
 ### Enhancements & Refactors
+
+
+# 6.12.3 (April 22, 2019)
+### Hotfixes
+- [#1366](https://github.com/openscope/openscope/issues/1366) - Remove/combine conflicting spawn patterns from multiple airports
+
+
+# 6.12.2 (April 15, 2019)
+### Hotfixes
+- [#943](https://github.com/openscope/openscope/issues/943) - Fix random spawn calculations to ensure arrivals are available quickly
+- [#1355](https://github.com/openscope/openscope/issues/1355) - Ensure LSZH arrivals descend properly
+
+
+# 6.12.1 (April 4, 2019)
+### Hotfixes
+- [#1358](https://github.com/openscope/openscope/issues/1358) - Ensure traffic resumes spawning after a spawn pattern is turned off and back on
 
 
 # 6.12.0 (April 1, 2019)
