@@ -9,6 +9,7 @@
 ### Enhancements & Refactors
 - [#1230](https://github.com/openscope/openscope/issues/1230) - Upgrade from `cedar-14` to `heroku-14` stack and simplifies build commands
 - [#1344](https://github.com/openscope/openscope/issues/1344) - Add `EventTracking` calls to `TrafficRateController` and traffic rate concerns.
+- [#1327](https://github.com/openscope/openscope/issues/1327) - Airport Revival: San Francisco International Airport
 
 
 # 6.12.3 (April 22, 2019)
